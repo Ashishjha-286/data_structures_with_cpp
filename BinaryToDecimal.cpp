@@ -21,18 +21,8 @@ int main()
 
         n = n / 10;
         i++;
-
-
     }
 
     cout<<"Answer is:"<<ans<<endl;
-
-
-
-
-
-
-
-
 
 }
